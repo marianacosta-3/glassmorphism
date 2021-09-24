@@ -7,7 +7,7 @@
     Creative Z-Index Transition Icon Hover Effects
        <br />
     <br />
-  Created by <a href="https://www.youtube.com/watch?v=HlKBznWcC_k&t=582s">Online Tutorials</a>
+  Inspired by <a href="https://www.youtube.com/watch?v=HlKBznWcC_k&t=582s">Online Tutorials</a>
   </p>
 </p>
 
